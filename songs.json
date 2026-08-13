@@ -1,10 +1,10 @@
 {
   "songs": [
     {
-      "title": "Sample Song 01",
-      "artist": "Artist Name",
-      "cover": "assets/default-cover.svg",
-      "src": "songs/
+      "title": "I Am A Disco Dancer",
+      "artist": "Vijay Benedict",
+      "cover": "default-cover.svg",
+      "src": "Disco Dancer - I Am A Disco Dancer Zindagi Mera Gaana - Vijay Benedict.m4a"
     }
   ]
 }

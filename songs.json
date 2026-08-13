@@ -1,0 +1,10 @@
+{
+  "songs": [
+    {
+      "title": "Sample Song 01",
+      "artist": "Artist Name",
+      "cover": "assets/default-cover.svg",
+      "src": "songs/song01.mp3"
+    }
+  ]
+}
